@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Fortunes Fucking a.i</string>
+    <string name="title_activity_main">Fortunes Fucking a.i</string>
+    <string name="package_name">com.dyad.app</string>
+    <string name="custom_url_scheme">com.dyad.app</string>
+</resources>
